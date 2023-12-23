@@ -1,0 +1,19 @@
+.character-page {
+    padding: 0 80px;
+}
+
+.character-title {
+    letter-spacing: 3px;
+}
+
+.charachter-description {
+    width: 70%;
+    font-size: 18px;
+    font-weight: 400;
+    letter-spacing: 1px;
+}
+
+.character-batman{
+    letter-spacing: 3px;
+    margin: 5px 0;
+}

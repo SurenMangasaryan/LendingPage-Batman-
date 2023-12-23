@@ -1,0 +1,23 @@
+.right-panel {
+    width: 60%;
+    display: flex;
+    align-items: center;
+    column-gap: 5px;
+    position: relative;
+}
+
+.right-panel img {
+    width: 100%;
+}
+
+.icons-right{
+    display: flex;
+    flex-direction: column;
+    row-gap: 15px;
+    position: absolute;
+    top: 40%;
+    right: 10px;
+    transform: translate(-50%, 0%);
+    font-size: 20px;
+}
+

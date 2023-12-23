@@ -1,0 +1,9 @@
+.logo-div {
+    width: 250px;
+    cursor: pointer;
+    margin-left: -30px;
+}
+
+.logo-div img {
+    width: 100%;
+}

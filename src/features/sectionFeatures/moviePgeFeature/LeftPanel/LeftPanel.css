@@ -1,0 +1,39 @@
+.left-panel {
+    width: 40%;
+}
+
+.left-title {
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 35px;
+    letter-spacing: 2px;
+    cursor: default;
+}
+
+.left-title span {
+    font-weight: 700;
+}
+
+.left-description {
+    font-weight: 400;
+    width: 100%;
+    margin: 20px 0;
+    cursor: default;
+}
+
+.trailer-title-div {
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+    cursor: default;
+}
+
+.left-icon {
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.trailer-title {
+    text-transform: uppercase;
+    font-size: 30px;
+}

@@ -1,0 +1,7 @@
+.movie-page{
+    display: flex;
+    column-gap: 10%;
+    padding: 0 80px;
+    margin-top: -50px;
+    align-items: center;
+}

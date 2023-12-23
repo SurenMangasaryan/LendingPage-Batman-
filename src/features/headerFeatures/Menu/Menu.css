@@ -1,0 +1,35 @@
+nav {
+    display: flex;
+    align-items: center;
+}
+
+nav>* {
+    font-weight: 400;
+    cursor: pointer;
+    text-transform: uppercase;
+    list-style: none;
+}
+
+a {
+    font-weight: 400;
+    cursor: pointer;
+    text-transform: uppercase;
+    list-style: none;
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
+
+.navbar {
+    column-gap: 30px;
+    align-items: center;
+}
+
+.icon-div {
+    padding-right: 45px;
+}
+
+.menu-icon {
+    transition: all .5s linear;
+    font-size: 35px;
+}
